@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.task-container{
+  margin: 5%;
+  height: 400px;
+  width: 300px;
+  border: thin solid black;
+  background-color: lightblue;
+  overflow: auto;
+}
+
+h1{
+  border-bottom: thin solid black;
+}
